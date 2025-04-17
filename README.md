@@ -4,7 +4,7 @@
 Students can register, login, and apply for jobs.
 Admins can manage users and monitor job activities.
 
-🛠 Tech Stack
+🛠 Tech Stack :
 HTML | CSS | Java | Spring Boot | MySQL | Maven for project management
 
 📌 Purpose
