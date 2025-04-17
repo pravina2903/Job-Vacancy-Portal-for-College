@@ -7,6 +7,6 @@ Admins can manage users and monitor job activities.
 🛠 Tech Stack :
 HTML | CSS | Java | Spring Boot | MySQL | Maven for project management
 
-📌 Purpose
+📌 Purpose :
 Built to simplify and manage college placement activities efficiently for students, Teachers and Administrations.
 
